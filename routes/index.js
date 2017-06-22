@@ -21,7 +21,7 @@ router.get('/well', function (req, res, next) {
         if(err)
             console.log("error");
         else
-            res.send("clonning successful");
+            res.send("clonning donne-souraV successful");
     })
 });
 
